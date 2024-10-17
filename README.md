@@ -1,7 +1,7 @@
 # linux
 The quieter you become...
 
-# Shachou Lab | Linux, Kali & Engineering Solutions
+# Shachou Lab | Linux & Engineering Solutions
 
 Welcome! This repository is a collection of cutting-edge Linux reviews, Kali Linux penetration testing scripts, Windows integration guides, and chemical engineering tools.
 
